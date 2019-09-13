@@ -10,7 +10,7 @@ Ttwitter：https://twitter.com/Kosmos90003716
 
 Kosmos system contain 8 components. The rules of each component is defined and realized by different sub projects:
 
-## 1 [kosmos_developer](https://github.com/KosmosDmp/kosmos_developer)  
+## 1 [kosmos_developer](https://github.com/cryptokosmos/kosmos_developer)  
   For kosmos developer Community: Any developer of Github can upload the code，design or update the Chrome/APP plugin or special web browser to realize the function of kosmos and collect data. But the output and the basic logic of data replacement cannot be changed. 
 
 ## 2 [kosmos_sdk](https://github.com/cryptokosmos/kosmos_sdk) 
